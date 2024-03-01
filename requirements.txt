@@ -1,0 +1,3 @@
+autodistill-yolov8 autodistill-detic roboflow
+autodistill autodistill-grounded-sam autodistill-yolov8
+git+https://github.com/openai/CLIP.git
